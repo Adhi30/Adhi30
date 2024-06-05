@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Adhiththiyan</h1>
-<h3 align="center">I'm a machine learning enthusiast skilled in Python, currently delving into deep learning.I have foundational experience in applying machine learning techniques to solve
+<h3 align="center">I'm a machine learning enthusiast skilled in Python, currently delving into Natural Language Processing.I have foundational experience in applying machine learning techniques to solve
 problems and enjoy collaborating with teams to develop innovative AI solutions. Looking to contribute
 my energy and passion to a dynamic environment where I can continue to grow and make a positive
 impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhi30&label=Profile%20views&color=0e75b6&style=flat" alt="adhi30" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **NLP**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **AI/ML Projects**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **AI/ML**
 
 - 📫 How to reach me **adhictk2@gmail.com**
 
